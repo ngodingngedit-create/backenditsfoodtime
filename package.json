@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.103.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "midtrans-client": "^1.4.3"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "type": "module"
+}
